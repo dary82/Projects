@@ -1,0 +1,36 @@
+Thread id: 1
+Stack:
+Ref int v
+new v,20
+Ref Ref int a
+new a,v
+print rH v
+print rH rH a+5
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int v
+new v,20
+Ref Ref int a
+new a,v
+print rH v
+print rH rH a+5
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---

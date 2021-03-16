@@ -1,0 +1,1970 @@
+Thread id: 1
+Stack:
+int v
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 10
+Stack:
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 1
+Stack:
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 10
+Stack:
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 1
+Stack:
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 10
+Stack:
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 1
+Stack:
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+30
+
+---
+Thread id: 10
+Stack:
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+30
+
+---
+Thread id: 10
+Stack:
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+30
+
+---
+Thread id: 1
+Stack:
+int v
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=10
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,22
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 0,int
+v -> 10
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork wH a,30
+v=32
+print v
+print rH a
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 10
+Stack:
+wH a,30
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 22
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 10
+Stack:
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 1
+Stack:
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 10
+Stack:
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 1
+Stack:
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 10
+Stack:
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+
+---
+Thread id: 1
+Stack:
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+30
+
+---
+Thread id: 10
+Stack:
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+30
+
+---
+Thread id: 10
+Stack:
+v=32
+print v
+print rH a
+
+Symbol Table:
+a -> 1,int
+v -> 10
+
+File Table:
+
+Heap Table:
+1 -> 30
+
+Output:
+10
+30
+
+---

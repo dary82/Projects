@@ -1,0 +1,21 @@
+[2020-04-29 14:37:20] [info] Start Program:
+Path:"E:\\OOP\\Assignment 5-6\\Debug\\Assignment 5-6.exe"
+Arguments:
+Working directory: "E:\\OOP\\Assignment 5-6\\Assignment 5-6\\"
+Modules: Selected: E:\OOP\Assignment 5-6\Debug\Assignment 5-6.exe Excluded: 
+Sources: Selected: E:\OOP\Assignment 5-6\Assignment 5-6 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\dobra\AppData\Local\Temp\0jy0gwad.jhj 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-04-29 14:37:20] [info] Module: E:\OOP\Assignment 5-6\Debug\Assignment 5-6.exe is selected because it matches selected pattern: E:\OOP\Assignment 5-6\Debug\Assignment 5-6.exe
+[2020-04-29 14:37:20] [info] ----------------------------------------------------
+[2020-04-29 14:37:20] [info] Coverage binary generated in file: C:\Users\dobra\AppData\Local\Temp\0jy0gwad.jhj
+[2020-04-29 14:37:20] [info] ----------------------------------------------------

@@ -1,0 +1,30 @@
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---

@@ -1,0 +1,36 @@
+﻿<Window x:Class="Presentation.LogIn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentation"
+        mc:Ignorable="d"
+        Title="Log In" Height="300" Width="300">
+
+    <StackPanel >
+
+        <Grid Margin="20">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="35*"/>
+                <ColumnDefinition Width="92*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Label Name="usernameLb" Margin="0,10,0.6,9.8" Content="Username" Grid.Row="0" />
+            <Label Name="passwordLb" Margin="0,10.2,0.6,10.2" Content="Password" Grid.Row="1"/>
+
+            <TextBox Name="userTb" Grid.Column="1" Margin="10.4,10,9.6,9.8"/>
+            <PasswordBox Name="passwordTb" Grid.Column="1" Grid.Row="1" Margin="10.4,10.2,9.6,10.2"/>
+        </Grid>
+
+        <Button Name="signUpBt" Content="Sign Up" Margin=" 100 10" Click="signUpBt_Click"/>
+        <Button Name="logInBt" Content="Log In" Margin="100 0" Click="logInBt_Click"/>
+
+    </StackPanel>
+
+</Window>

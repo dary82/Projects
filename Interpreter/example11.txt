@@ -1,0 +1,5413 @@
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+
+Symbol Table:
+v -> -1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 10
+Stack:
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+
+---
+Thread id: 1
+Stack:
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 2
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 10
+Stack:
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 3
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 3
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 3
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 3
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 3
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+nop
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 3
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 3
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 3
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+print v*10
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 3
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+
+---
+Thread id: 1
+Stack:
+
+Symbol Table:
+v -> 3
+x -> 1
+y -> 3
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+1
+2
+30
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 10
+Stack:
+
+Symbol Table:
+v -> -1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+0
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int x
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int y
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=0
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+repeat fork print v
+v=v-1
+v=v+1 until !v==3
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+fork print v
+v=v-1
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=v+1
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+while !v==3{fork print v
+v=v-1
+v=v+1}
+x=1
+nop
+y=3
+nop
+print v*10
+
+Symbol Table:
+v -> 1
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 10
+Stack:
+print v
+v=v-1
+
+Symbol Table:
+v -> 0
+x -> 0
+y -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---

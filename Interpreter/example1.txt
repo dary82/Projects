@@ -1,0 +1,1141 @@
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+5
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+5
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+5
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+v=5
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=5
+print v
+
+Symbol Table:
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+
+Symbol Table:
+v -> 5
+
+File Table:
+
+Heap Table:
+
+Output:
+5
+
+---

@@ -1,0 +1,1602 @@
+Thread id: 1
+Stack:
+Ref int a
+Ref int b
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+Ref int b
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+Ref int b
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int a
+Ref int b
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int b
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int b
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int b
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int b
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int b
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+Ref int b
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int v
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new a,0
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 0,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+new b,0
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 0,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH a,1
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 0
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+wH b,2
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 0
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=rH a<rH b?100:200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+IF rH a<rH b THEN v=100 ELSE v=200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+IF rH a<rH b THEN v=100 ELSE v=200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+IF rH a<rH b THEN v=100 ELSE v=200
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=100
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=100
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=100
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 0
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print v
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+
+---
+Thread id: 1
+Stack:
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+v=rH b-2>rH a?100:200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+IF rH b-2>rH a THEN v=100 ELSE v=200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+IF rH b-2>rH a THEN v=100 ELSE v=200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+IF rH b-2>rH a THEN v=100 ELSE v=200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+v=200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+v=200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+v=200
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 100
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 200
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 200
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+print v
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 200
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+
+---
+Thread id: 1
+Stack:
+
+Symbol Table:
+a -> 1,int
+b -> 2,int
+v -> 200
+
+File Table:
+
+Heap Table:
+1 -> 1
+2 -> 2
+
+Output:
+100
+200
+
+---

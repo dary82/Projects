@@ -1,0 +1,758 @@
+Thread id: 1
+Stack:
+int a
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int a
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int a
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int a
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int a
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+b=a+1
+print b
+
+Symbol Table:
+a -> 17
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+b=a+1
+print b
+
+Symbol Table:
+a -> 17
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+b=a+1
+print b
+
+Symbol Table:
+a -> 17
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+b=a+1
+print b
+
+Symbol Table:
+a -> 17
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print b
+
+Symbol Table:
+a -> 17
+b -> 18
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print b
+
+Symbol Table:
+a -> 17
+b -> 18
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+
+Symbol Table:
+a -> 17
+b -> 18
+
+File Table:
+
+Heap Table:
+
+Output:
+18
+
+---
+Thread id: 1
+Stack:
+int a
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int a
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int a
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int a
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+int b
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+a=2+3*5
+b=a+1
+print b
+
+Symbol Table:
+a -> 0
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+b=a+1
+print b
+
+Symbol Table:
+a -> 17
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+b=a+1
+print b
+
+Symbol Table:
+a -> 17
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+b=a+1
+print b
+
+Symbol Table:
+a -> 17
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+b=a+1
+print b
+
+Symbol Table:
+a -> 17
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+b=a+1
+print b
+
+Symbol Table:
+a -> 17
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+b=a+1
+print b
+
+Symbol Table:
+a -> 17
+b -> 0
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print b
+
+Symbol Table:
+a -> 17
+b -> 18
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print b
+
+Symbol Table:
+a -> 17
+b -> 18
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+print b
+
+Symbol Table:
+a -> 17
+b -> 18
+
+File Table:
+
+Heap Table:
+
+Output:
+
+---
+Thread id: 1
+Stack:
+
+Symbol Table:
+a -> 17
+b -> 18
+
+File Table:
+
+Heap Table:
+
+Output:
+18
+
+---

@@ -1,0 +1,20 @@
+﻿  FileRepository.cpp
+  HTMLRepository.cpp
+  main.cpp
+  MemoryRepository.cpp
+  MyExceptions.cpp
+  Repository.cpp
+  Service.cpp
+E:\Facultate-GitHub\Sem2\OOP\Assignment5-6\Assignment 5-6\Service.cpp(81,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task.cpp
+  Tests.cpp
+  UI.cpp
+E:\Facultate-GitHub\Sem2\OOP\Assignment5-6\Assignment 5-6\UI.cpp(73,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Facultate-GitHub\Sem2\OOP\Assignment5-6\Assignment 5-6\UI.cpp(101,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Facultate-GitHub\Sem2\OOP\Assignment5-6\Assignment 5-6\UI.cpp(115,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Facultate-GitHub\Sem2\OOP\Assignment5-6\Assignment 5-6\UI.cpp(149,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Facultate-GitHub\Sem2\OOP\Assignment5-6\Assignment 5-6\UI.cpp(157,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Utils.cpp
+  Validator.cpp
+  Generating Code...
+  Assignment 5-6.vcxproj -> E:\Facultate-GitHub\Sem2\OOP\Assignment5-6\x64\Debug\Assignment 5-6.exe
